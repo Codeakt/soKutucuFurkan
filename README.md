@@ -1,0 +1,2 @@
+# soKutucuFurkan
+SonOyuncu KutucuFurkan eklentisi.
